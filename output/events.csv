@@ -1,0 +1,4 @@
+step,eventName,description,affectedEntities,timestamp
+30,ESCAPE_DINOSAURIO,Un dinosaurio ha escapado de su recinto.,Múltiples,2026-05-21T14:45:06.958657600
+48,TORMENTA_TORRENCIAL,Una tormenta obliga a los turistas a refugiarse.,Todos los turistas activos,2026-05-21T14:45:07.312772400
+63,APAGON_MASIVO,Falla total en la planta de energía.,Planta de Energía,2026-05-21T14:45:07.596243500
